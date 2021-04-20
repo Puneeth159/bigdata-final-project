@@ -1,4 +1,4 @@
-# bigdata-final-project
+# Bigdata-final-project
 This project is about commands of process text data with Spark and Python
 
 ## Author
