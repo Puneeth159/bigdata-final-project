@@ -85,3 +85,12 @@ print(df)
 plt.figure(figsize=(10,3))
 sns.barplot(xlabel, ylabel, data=df, palette="tab10").set_title(title)
 ```
+### Result Screenshot
+
+![Result Chart](Bigdata_finalproject_screenshot2.PNG)
+
+### References
+
+- https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4574377819293972/2246755934805346/3186223000943570/latest.html
+
+- https://github.com/Vikas2004/vikas-BigData-Final_Project
